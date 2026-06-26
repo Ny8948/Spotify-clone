@@ -116,8 +116,4 @@ GitHub: https://github.com/nitin8948
 
 ---
 
-## 📄 License
 
-This project is created for educational and learning purposes only.
-
-The original Spotify design and branding belong to Spotify AB.
